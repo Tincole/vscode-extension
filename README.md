@@ -1,6 +1,6 @@
 # helloWorld README
 
-This is the README for your extension "helloWorld". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "helloWorld"
 
 ## Features
 
@@ -12,7 +12,6 @@ For example if there is an image subfolder under your extension project workspac
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-测试打包
 ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
