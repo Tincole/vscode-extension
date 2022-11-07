@@ -1,7 +1,7 @@
+https://github.com/Tincole/vscode-extension.git
 # helloWorld README
 
-This is the README for your extension "helloWorld"
-
+This is the README for your extension "helloWorld". After writing up a brief description, we recommend including the following sections.
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
